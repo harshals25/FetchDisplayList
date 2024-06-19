@@ -43,3 +43,6 @@ This Android application project demonstrates a simple implementation using Kotl
 ## Usage
 Once you build and run, initially MainActivity will run. If you want to run the KotlinXMLActivity, you can edit configurations in Android Studio and just run that activity. 
 Explore the code to understand how Retrofit, MVVM architecture, and Jetpack Compose/XML are implemented, code is commented for more redability. 
+
+## License
+This project is licensed under the MIT License.
