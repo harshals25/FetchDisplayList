@@ -1,4 +1,4 @@
-# Android To Display List Fetched from API
+# Android App To Display List Fetched from API
 
 This Android application project demonstrates a simple implementation using Kotlin, Retrofit, and Jetpack Compose following MVVM architecture. The app fetches data from an API, filters it based on specific criteria, and displays the filtered list on the MainActivity screen using both Jetpack Compose and XML in KotlinXMLActivity.
 
