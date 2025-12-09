@@ -34,4 +34,39 @@
     "isSubscribed": true,
     "satisfactionLevel": 4
   }
+  {
+    "id": 6,
+    "name": "Johnny Doe",
+    "email": "johnny.doe@example.com",
+    "isSubscribed": true,
+    "satisfactionLevel": 3
+  },
+  {
+    "id": 7,
+    "name": "Jofra Archer",
+    "email": "jarcher@example.com",
+    "isSubscribed": false,
+    "satisfactionLevel": 2
+  },
+  {
+    "id": 8,
+    "name": "Ben Stokes",
+    "email": "bstokes@example.com",
+    "isSubscribed": true,
+    "satisfactionLevel": 1
+  },
+  {
+    "id": 9,
+    "name": "Adil Rashid",
+    "email": "arashid@example.com",
+    "isSubscribed": false,
+    "satisfactionLevel": 3
+  },
+  {
+    "id": 10,
+    "name": "Travis Head",
+    "email": "thead@example.com",
+    "isSubscribed": true,
+    "satisfactionLevel": 5
+  }
 ]
