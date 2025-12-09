@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "isSubscribed": true,
+    "satisfactionLevel": 4
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "isSubscribed": false,
+    "satisfactionLevel": 3
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "email": "alex.johnson@example.com",
+    "isSubscribed": true,
+    "satisfactionLevel": 5
+  },
+  {
+    "id": 4,
+    "name": "Maria Garcia",
+    "email": "maria.garcia@example.com",
+    "isSubscribed": false,
+    "satisfactionLevel": 2
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "isSubscribed": true,
+    "satisfactionLevel": 4
+  }
+]
