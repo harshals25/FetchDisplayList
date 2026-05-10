@@ -1,39 +1,39 @@
 {
   "bookmarks": [
     {
-      "id": 1,
-      "title": "Android Developers",
-      "url": "https://developer.android.com",
-      "note": "Official Android documentation",
-      "isMarked": false
+      "bookmark_id": 1,
+      "bookmark_title": "Android Developers",
+      "bookmark_url": "https://developer.android.com",
+      "bookmark_note": "Official Android documentation",
+      "is_selected": false
     },
     {
-      "id": 2,
-      "title": "Kotlin Docs",
-      "url": "https://kotlinlang.org",
-      "note": "Official Kotlin documentation",
-      "isMarked": false
+      "bookmark_id": 2,
+      "bookmark_title": "Kotlin Docs",
+      "bookmark_url": "https://kotlinlang.org",
+      "bookmark_note": "Official Kotlin documentation",
+      "is_selected": false
     },
     {
-      "id": 3,
-      "title": "Compose Samples",
-      "url": "https://github.com/android/compose-samples",
-      "note": "Great Compose examples",
-      "isMarked": false
+      "bookmark_id": 3,
+      "bookmark_title": "Compose Samples",
+      "bookmark_url": "https://github.com/android/compose-samples",
+      "bookmark_note": "Great Compose examples",
+      "is_selected": false
     },
     {
-      "id": 4,
-      "title": "Hilt Documentation",
-      "url": "https://dagger.dev/hilt",
-      "note": "Dependency injection guide",
-      "isMarked": false
+      "bookmark_id": 4,
+      "bookmark_title": "Hilt Documentation",
+      "bookmark_url": "https://dagger.dev/hilt",
+      "bookmark_note": "Dependency injection guide",
+      "is_selected": false
     },
     {
-      "id": 5,
-      "title": "Room Database",
-      "url": "https://developer.android.com/training/data-storage/room",
-      "note": "Local database guide",
-      "isMarked": false
+      "bookmark_id": 5,
+      "bookmark_title": "Room Database",
+      "bookmark_url": "https://developer.android.com/training/data-storage/room",
+      "bookmark_note": "Local database guide",
+      "is_selected": false
     }
   ]
 }
